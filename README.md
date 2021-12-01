@@ -14,3 +14,4 @@ El objetivo del presente proyecto recae en la creación de un dispositivo conect
 ## Secciones
 - _Código de Arduino_: incluye el código en Arduino utilizado para configurar los sensores MQ y el código utilizado para obtener mediciones de dichos sensores así como generar "POST requests".
 - _Código del servidor_: incluye el código en Python de la creación de la API utilizando la librería FastAPI. En este caso, se utiliza el reverse proxy "ngrok" para permitir el uso de un servidor mediante un navegador. 
+- _Visualización de la base de datos_: 
