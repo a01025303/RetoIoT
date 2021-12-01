@@ -1,7 +1,7 @@
 # Reto IoT
 Repositorio con la solución del reto de la materia de "Implementación del internet de las cosas"
 
-## Ingegrantes
+## Integrantes
 - Karla Mondragón, A01025108
 - Andrew Dunkerley, A01025076
 - Ana Paula Katsuda, A01025303
